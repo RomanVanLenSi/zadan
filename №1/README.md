@@ -1,2 +1,2 @@
 # Ссылки
-№1<a href="https://github.com/RomanVanLenSi/zadan/blob/master/№1/str%202.html">
+№1<a href="№1/str 2.html">
