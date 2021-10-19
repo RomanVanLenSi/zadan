@@ -1,0 +1,16 @@
+h1{
+    background-color: grey;
+    text-align: center;
+}
+li,b{
+    color: red;
+}
+i{
+    color: blue;
+}
+p,h2{
+    color: green;
+}
+ul{
+    font-style: italic;
+}
