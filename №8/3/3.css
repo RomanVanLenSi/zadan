@@ -1,0 +1,8 @@
+body{
+    background-image: url(fon1.jpg);
+    background-position: right;
+    background-repeat: repeat-y;
+}
+p{
+    width: 300px;
+}

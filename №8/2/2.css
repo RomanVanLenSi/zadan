@@ -1,3 +1,6 @@
 body{
-    background-image: url(C:\Users\romav\OneDrive\Рабочийстол\zadan\№8\2\fon.jpg);
+    background-image: url(fon.jpg);
+}
+p{
+    width: 500px;
 }
