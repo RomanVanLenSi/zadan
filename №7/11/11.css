@@ -3,6 +3,7 @@ p{
     border-style: dotted;
     border-width: 1px;
     border-color: green;
-    padding: 10px;
     border-radius: 10px 30px 50px 70px;
+    height: 300px;
+    width: 300px;
 }

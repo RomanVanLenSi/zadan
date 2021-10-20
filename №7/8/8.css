@@ -1,4 +1,6 @@
 p{
     color: white;
-    border: dotted green 3px;
+    border: dashed green 2px;
+    height: 100px;
+    width: 100px;
 }

@@ -2,4 +2,7 @@ p{
     color: white;
     border-style: solid;
     border-color: red;
+    border-width: 1px;
+    height: 100px;
+    width: 100px;
 }
