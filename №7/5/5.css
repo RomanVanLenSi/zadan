@@ -1,0 +1,9 @@
+p.ttt{
+    text-decoration: underline;
+}
+p.eee{
+    text-decoration: line-through;
+}
+p.rrr{
+    text-decoration: overline;
+}

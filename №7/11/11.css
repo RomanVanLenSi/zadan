@@ -1,0 +1,8 @@
+p{
+    color: white;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: green;
+    padding: 10px;
+    border-radius: 10px 30px 50px 70px;
+}

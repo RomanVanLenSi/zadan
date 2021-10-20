@@ -1,0 +1,8 @@
+#test a:link.www, #test a:visited.www{
+    text-decoration: none;
+    color: chartreuse;
+}
+#test a:hover.www{
+    text-decoration: underline;
+    color: crimson;
+}

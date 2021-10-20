@@ -1,0 +1,8 @@
+.eee a:link.www, .eee a:visited.www{
+    text-decoration: underline;
+    color: gray;
+}
+.eee a:hover.www{
+    text-decoration: none;
+    color: lawngreen;
+}

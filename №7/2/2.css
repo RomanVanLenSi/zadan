@@ -1,0 +1,7 @@
+a:link.www, a:visited.www{
+    text-decoration: underline;
+    color: blue;
+}
+a:hover.www{
+    text-decoration: none;
+}

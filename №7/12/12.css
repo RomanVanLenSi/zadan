@@ -1,0 +1,8 @@
+p{
+    color: white;
+    border-style: solid;
+    border-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
