@@ -6,3 +6,4 @@
 <p>5.<a href="https://github.com/RomanVanLenSi/zadan/blob/master/%E2%84%965/README.md">задание 5</a></p>
 <p>6.<a href="https://github.com/RomanVanLenSi/zadan/blob/master/%E2%84%966/README.md">задание 6</a></p>
 <p>7.<a href="https://github.com/RomanVanLenSi/zadan/blob/master/%E2%84%967/README.md">задание 7</a></p>
+<p>8.<a href="https://github.com/RomanVanLenSi/zadan/blob/master/%E2%84%968/README.md">задание 8</a></p>

@@ -1,5 +1,5 @@
 # Задание 8
-<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/1"></a>страница 1</p>
-<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/2"></a>страница 2<p>
-<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/3"></a>страница 3</p>
-<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/4"></a>страница 4</p>
+<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/1">страница 1</a></p>
+<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/2">страница 2</a><p>
+<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/3">страница 3</a></p>
+<p><a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%968/4">страница 4</a></p>
