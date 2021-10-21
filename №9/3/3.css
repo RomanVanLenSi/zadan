@@ -1,0 +1,9 @@
+div{
+    width: 50%;
+    min-width: 300px;
+    max-width: 650px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid red;
+    border-radius: 10px;
+}

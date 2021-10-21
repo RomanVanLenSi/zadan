@@ -1,0 +1,27 @@
+ul.qqq{
+    list-style-type: square;
+}
+ul.www{
+    list-style-type: circle;
+}
+ul.eee{
+    list-style-type: disc;
+}
+ul.rrr{
+    list-style-type: none;
+}
+ul.ttt{
+    list-style-type: none;
+}
+.ttt li:before{
+    content: url(li.gif)
+}
+ul.yyy{
+    list-style-type: decimal;
+}
+ul.uuu{
+    list-style-type: lower-greek;
+}
+ul.iii{
+    list-style-type: upper-alpha;
+}
