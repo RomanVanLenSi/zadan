@@ -1,0 +1,21 @@
+a:link, a:visited{
+    color: white;
+    font: 13px Arial;
+    text-decoration: none;
+}
+li{
+    border: 1px solid #0081E7;
+    margin: 5px;
+    padding: 0px 5px;
+    background-color: #0081E7;
+    font-weight: bold;
+    line-height: 30px;
+    width: 150px;
+}
+a:hover li{
+    color: blue;
+    background-color: #fff;
+    background-image: url(blue.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}

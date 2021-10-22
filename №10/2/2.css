@@ -1,0 +1,16 @@
+a:link, a:visited{
+    color: blue;
+    font: 13px Arial;
+    text-decoration: none;
+
+}
+a:hover{
+    font-weight: bold;
+}
+li{
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 0px 5px;
+    line-height: 30px;
+    width: 100px;
+}

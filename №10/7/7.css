@@ -1,0 +1,48 @@
+a:link, a:visited{
+    text-decoration: none;
+    color: #cdcdcd;
+}
+li{
+    display: inline-block;
+    margin-right: 13px;
+    padding-top: 30px;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+li.q{
+    background-image: url(1.png);
+    
+}
+li.w{
+    background-image: url(2.png);
+}
+li.e{
+    background-image: url(3.png);
+
+}
+li.r{
+    background-image: url(4.png);
+}
+li.t{
+    background-image: url(5.png);
+}
+a:hover li{
+    color: #039cff;
+    text-decoration: none;
+}
+a:hover li.q{
+    background-image: url(1-h.png);
+
+}
+a:hover li.w{
+    background-image: url(2-h.png);
+}
+a:hover li.e{
+    background-image: url(3-h.png);
+}
+a:hover li.r{
+    background-image: url(4-h.png);
+}
+a:hover li.t{
+    background-image: url(5-h.png);
+}

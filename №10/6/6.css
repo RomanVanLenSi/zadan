@@ -1,0 +1,15 @@
+a:link, a:visited{
+    color: blue;
+    font: 13px Arial;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    border: 1px solid #1a32a2;
+    padding: 5px;
+}
+a:hover li{
+    color: #fff;
+    background-color: #484848;
+    border-color: black;
+}

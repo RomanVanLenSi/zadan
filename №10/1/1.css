@@ -1,0 +1,8 @@
+a:link, a:visited{
+    font: 13px Arial;
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
