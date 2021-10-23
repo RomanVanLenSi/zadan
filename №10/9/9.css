@@ -1,0 +1,29 @@
+table{
+    width: 150px;
+    padding: 20px 0px;
+    font: 13px Arial;
+}
+th a:link, th a:visited{
+    color: #506361;
+    text-decoration: none;
+}
+.qqq a:link, .qqq a:visited{
+    color: #8ca2c1;
+    text-decoration: none;
+}
+td a:link, td a:visited{
+    color: #506361;
+    text-decoration: none;
+}
+td a:hover{
+    text-decoration: underline;
+}
+th a:hover{
+    text-decoration: underline;
+}
+.qqq a:hover{
+    text-decoration: underline;
+}
+.www a:link, .www a:visited{
+    color: red;
+}
