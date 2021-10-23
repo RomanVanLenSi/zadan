@@ -1,0 +1,21 @@
+div.qqq{
+    border: 1px solid #707070;
+    padding: 20px;
+    width: 700px;
+    margin: 20px;
+}
+p{
+    text-align: justify;
+}
+div.zzz{
+    position: relative;
+    left: 90%;
+}
+a:link, a:visited{
+    color: blue;
+    text-decoration: none;
+}
+img{
+    float: left;
+    padding: 7px 10px 0px 0px;
+}
