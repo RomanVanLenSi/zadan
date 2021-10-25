@@ -1,0 +1,25 @@
+menu{
+    background-color: #484848;
+    padding-right: 10px;
+}
+li{
+    display: inline-block;
+    color: white;
+    font: 13px bold Arial;
+    padding: 0px 5px;
+    margin: 0px 5px;
+    line-height: 30px;
+}
+a:hover li{
+    color: #484848;
+    background-color: white;
+}
+div.inf{
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-indent: 20px;
+}
