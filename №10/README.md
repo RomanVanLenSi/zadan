@@ -1,0 +1,10 @@
+# Задание 10
+<p>1.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/1">Зад 1</a></p>
+<p>2.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/2">Зад 2</a></p>
+<p>3.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/4">Зад 3</a></p>
+<p>4.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/4">Зад 4</a></p>
+<p>5.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/5">Зад 5</a></p>
+<p>6.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/6">Зад 6</a></p>
+<p>7.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/7">Зад 7</a></p>
+<p>8.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/8">Зад 8</a></p>
+<p>9.<a href="https://github.com/RomanVanLenSi/zadan/tree/master/%E2%84%9610/9">Зад 9</a></p>
