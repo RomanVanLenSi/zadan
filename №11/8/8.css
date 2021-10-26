@@ -1,0 +1,43 @@
+div{
+    width: 900px;
+    margin: 0px auto 20px auto;
+    padding: 0px;
+    text-align: justify;
+    border-left: 1px ridge #fc9d00;
+    border-right: 1px ridge #fc9d00;
+    border-bottom: 1px ridge #fc9d00;
+    color: #cc8000;
+}
+menu{
+    background-color: #fc9d00;
+}
+menu li{
+    display: inline-block;
+    padding: 0px 10px;
+    line-height: 30px;
+}
+menu a:link li, menu a:visited li{
+    color: white;
+}
+menu a:hover li{
+    background-color: white;
+    color: #fc9d00;
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline-block;
+    padding: 0px 10px;
+    color: #9b6100;
+}
+a.text, h1{
+    color: #9b6100;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-indent: 30px;
+}

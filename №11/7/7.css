@@ -1,0 +1,23 @@
+div.inf{
+    width: 60%;
+    min-width: 500px;
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 30px;
+    text-align: justify;
+    border: 1px solid red;
+    border-radius: 40px;
+}
+div.right p{
+   margin: 0px 0px 0px 75%;
+   color: black;
+}
+h1, h2{
+    color: orange;
+}
+p{
+    color: red;
+}
+p.green{
+    color:green;
+}

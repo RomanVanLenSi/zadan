@@ -1,0 +1,35 @@
+menu{
+    background-color: #484848;
+    margin: 0px;
+}
+li{
+    display: inline-block;
+    font: 13px bold Arial;
+    padding: 0px 10px;
+    line-height: 30px;
+    margin: 0px 10px;
+}
+a:link, a:visited{
+    color: white;
+}
+a:hover li{
+    color: #484848;
+    background-color: white;
+}
+div{
+    border: 1px solid #484848;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding: 0px 10px;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+}
+a.text{
+    color: black;
+    font-weight: bold;
+}
