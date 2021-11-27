@@ -13,5 +13,24 @@ document.querySelectorAll('button').forEach(button =>{
     })
 })
 document.addEventListener('keydown', event => {
-    if ((event.key).match(/[0-9%\/*\-+\(\)]) )
+    if ((event.key).match(/[0-9%\/*\-+\(\)=]|Backspace|Enter/)) calc(event.key)
 })
+function calc(value) {
+    if (value.match(/=|Enter/)) {
+        try {
+            output.textContent = Math.trunc(match.evaluate(output.textContent))
+        
+        } catch {
+            let oldValue = output.textContent
+            let newValue = "недопустиме значение"
+            output.textContent = newValue
+            setTimeout(() => {
+                output.textContent = oldValue
+            }, 1500)
+        }
+    } else if (value === 'C') {
+        output.textContent = ''
+    }else {
+        output.textContent += value
+    }
+}
