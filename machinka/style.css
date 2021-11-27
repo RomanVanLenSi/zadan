@@ -4,5 +4,5 @@
     left: 50%;
 }
 #inf:hover .car{
-    transform: translate(500px, 300px);
+    transform: translate(300px, 150px);
 }
