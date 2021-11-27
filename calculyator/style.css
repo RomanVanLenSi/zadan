@@ -1,7 +1,9 @@
 div {
-  width: 352px;
+  width: 380px;
   background-color: #858585;
   height: 313px;
+  display: inline;
+  top: 50%;
 }
 .displai {
   width: 347px;
@@ -11,12 +13,16 @@ div {
   border-radius: 7px;
   background-color: #ccc;
 }
-input{
+ input{
   background: rgb(255, 255, 255);
   margin: 0 auto;
-  overflow: hidden;
   width: 66px;
   height: 60px;
   border-radius: 5px;
   font-size: 24px;
+  font-display: block;
+  
+}
+tr {
+  
 }
