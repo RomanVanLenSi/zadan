@@ -11,4 +11,5 @@ function back() {
 function equal() {
     
     document.form.textview.value = eval(document.form.textview.value)
+    dgfh
 }
