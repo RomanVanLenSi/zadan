@@ -1,6 +1,6 @@
 div {
   width: 380px;
-  background-color: #585252;
+  background-color: #858585;
   height: 313px;
   display: inline;
   top: 50%;
@@ -13,7 +13,7 @@ div {
   border-radius: 7px;
   background-color: rgb(255, 255, 255);
 }
- input{
+input{
   background: rgb(70, 69, 69);
   margin: 0 auto;
   width: 66px;
@@ -21,5 +21,4 @@ div {
   border-radius: 5px;
   font-size: 24px;
   font-display: block;
-  
  }
